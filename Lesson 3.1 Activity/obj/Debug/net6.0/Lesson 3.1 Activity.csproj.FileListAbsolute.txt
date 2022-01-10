@@ -1,0 +1,15 @@
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\Lesson 3.1 Activity.exe
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\Lesson 3.1 Activity.deps.json
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\Lesson 3.1 Activity.runtimeconfig.json
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\Lesson 3.1 Activity.dll
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\ref\Lesson 3.1 Activity.dll
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\bin\Debug\net6.0\Lesson 3.1 Activity.pdb
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.csproj.AssemblyReference.cache
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.AssemblyInfoInputs.cache
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.AssemblyInfo.cs
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.csproj.CoreCompileInputs.cache
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.dll
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\ref\Lesson 3.1 Activity.dll
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.pdb
+C:\Users\Yenti Maria Buchanan\Desktop\C#\Lesson 3.1 Activity\obj\Debug\net6.0\Lesson 3.1 Activity.genruntimeconfig.cache
