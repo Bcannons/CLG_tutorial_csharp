@@ -1,0 +1,26 @@
+Plan!
+
+[Player name] went on a quest to find the last [mythical creature] of [travel destination]. [Player name] took the [method of transport] to [travel destination] and was sitting [adverb] by themself, when suddenly, hundreds of [plural noun] appeared and used their secret power of [superpower]. [Playername] was so surprised that they forgot all about their quest, got the next [mode of transport] home and lived happily ever after.
+
+1. {playerName} "What is your name?"
+2. {favouriteAnimal} "What is your favourite animal?"
+3. {favoriteCountry} "Which country is your favorite?"
+4. {playerName}
+5. {trueFalseGhost} "Ghosts are real, true or false?" BOOL
+6. {favouriteCountry}
+
+
+[Player name] went on a quest to find the last [favouriteAnimal] of [favoriteCountry]. [Player name] took the [trueFalseGhost][favoriateAnimal] to [travel destination] THE END! 
+
+Program.CS
+
+var welcomeMessage = "Hello, today I will be asking a series of questions to which the answers will be created into a short script for you! Let's begin!";
+
+Console.WriteLine(welcomeMessage.ToUpper());
+
+Console.WriteLine(What is your name?");
+var name = Console.ReadLine();
+var responseMessage1 = $"Hello {name} Nice to meet you, let's play a game!";
+
+Console.WriteLine(responseMessage1);
+Console.WriteLine(What is your favourite animal?");
