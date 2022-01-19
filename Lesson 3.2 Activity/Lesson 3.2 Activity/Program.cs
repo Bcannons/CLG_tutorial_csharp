@@ -27,9 +27,9 @@ double.TryParse(Console.ReadLine(), out interestRate);
 Console.WriteLine($"You have entered {interestRate}\n");
 
 Console.WriteLine("Please enter the number of months you will save for \n");
-var numberofMonths = 0;
-int.TryParse(Console.ReadLine(), out numberofMonths);
-Console.WriteLine($"You have entered {numberofMonths}\n");
+var numberOfMonths = 0;
+int.TryParse(Console.ReadLine(), out numberOfMonths);
+Console.WriteLine($"You have entered {numberOfMonths}\n");
 
 Console.ResetColor();
 
@@ -42,7 +42,7 @@ Console.ForegroundColor = ConsoleColor.DarkRed;
 Console.BackgroundColor = ConsoleColor.Cyan;
 
 //Calculating savings amount $$$
-var savings = initialDeposit * Math.Pow((1 + interestRate),numberofMonths);
+var savings = initialDeposit * Math.Pow((1 + interestRate),numberOfMonths);
 Console.WriteLine($"Your total savings will be ${Math.Round(savings, 2)}\n");
 
 //Reset background colour
